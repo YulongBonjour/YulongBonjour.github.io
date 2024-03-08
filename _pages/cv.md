@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Information Engineering, Xi'an Jiaotong University, 2017-2021
+* M.S. & Generalist Engineer, Centrale Méditerranée, 2019-2024
+* M.S. in Control Science and Engineering, Xi'an Jiaotong University, 2021-2024
+* Ph.D in Computer Science, Hongkong University of Science and Technology  , 2024-2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2021: Research Intern
+  * Institute of Automation, Chinese Academy of Sciences
+  * Duties included: research about vision-language model
+  * Supervisor: Professor Guibo Zhu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-2024: AI Engineer(Intern)
+  * Huawei Noah's Ark
+  * Duties included: research about vision-language model
+  * Supervisor: Hang Xu, Chunwei Wang
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * TaiSu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training}
+  * BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI}
+  * From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs}
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2021-2022 Vice President of Xi'an Jiaotong University Sino-French Exchange Association
