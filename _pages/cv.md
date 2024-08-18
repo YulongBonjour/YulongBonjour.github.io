@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Information Engineering, Xi'an Jiaotong University, 2017-2021
-* M.S. & Generalist Engineer, Centrale Méditerranée, 2019-2024
+* M.S. & Generalist Engineer, Centrale Méditerranée, CSC scholarship,2019-2021
 * M.S. in Control Science and Engineering, Xi'an Jiaotong University, supervised by Prof. Nanning Zheng, graduate with honor, 2021-2024
 * Ph.D in Computer Science, Hongkong University of Science and Technology, 2024-2028 (expected)
 
