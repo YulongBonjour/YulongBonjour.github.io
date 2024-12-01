@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am pursuing my PhD degree at HKUST. My research interest lies in Vision-language models.
+Hello, I am Yulong Liu(刘雨龙）. I am pursuing my PhD degree at HKUST. My research interest lies in Vision-language models.
