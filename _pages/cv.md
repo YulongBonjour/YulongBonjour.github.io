@@ -31,9 +31,9 @@ Work experience
 Publications
 ======
   * TaiSu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training(NIPS Dataset&Benchmark tack, 2022, spotlight)
-  * See Through Their Minds: Learning Transferable Brain Decoding Models from Cross-Subject fMRI(AAAI 2022)
-  * BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI(TMI submission)
-  * From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs(arxiv)
+  * See Through Their Minds: Learning Transferable Brain Decoding Models from Cross-Subject fMRI(AAAI 2025)
+  * BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI(TMI submission,2023)
+  * From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs(arxiv,2024)
   
   
 Service and leadership
