@@ -40,3 +40,4 @@ Service and leadership
 ======
 * 2021-2022 Vice President of Xi'an Jiaotong University Sino-French Exchange Association
 * reviewer for NeurIPS、CVPR、Neurocomputing
+* TA for COMP2011 C++ Programming @HKUST
