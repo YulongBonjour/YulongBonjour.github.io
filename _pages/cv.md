@@ -35,6 +35,7 @@ Publications
     [Official state Media exposure2](https://www.hubei.gov.cn/hbfb/rdgz/202210/t20221001_4330768.shtml)
   * See Through Their Minds: Learning Transferable Brain Decoding Models from Cross-Subject fMRI(AAAI 2025, poster)
   * BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI(IEEE TMI)
+  * Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning (arxiv,2025)[Project page](https://follow-your-motion.github.io/)
   * From Summary to Action: Enhancing Large Language Models for Complex Tasks with Open World APIs(arxiv,2024)
   
   
