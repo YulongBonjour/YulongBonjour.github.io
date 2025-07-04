@@ -31,8 +31,8 @@ Work experience
 Publications
 ======
   * TaiSu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training(NIPS Dataset&Benchmark tack, 2022, spotlight)
-     [Taisu Project](https://github.com/ksOAn6g5/TaiSu)
-     [Official state Media exposure1](https://www.cnr.cn/hubei/yw/20221001/t20221001_526024831.shtml)
+     [Taisu Project](https://github.com/ksOAn6g5/TaiSu)    ||
+     [Official state Media exposure1](https://www.cnr.cn/hubei/yw/20221001/t20221001_526024831.shtml)||
     [Official state Media exposure2](https://www.hubei.gov.cn/hbfb/rdgz/202210/t20221001_4330768.shtml)
   * See Through Their Minds: Learning Transferable Brain Decoding Models from Cross-Subject fMRI(AAAI 2025, poster)
   * BrainCLIP: Bridging Brain and Visual-Linguistic Representation via CLIP for Generic Natural Visual Stimulus Decoding from fMRI(IEEE TMI)
