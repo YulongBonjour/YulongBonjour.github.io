@@ -42,5 +42,6 @@ Publications
   
 Service and leadership
 ======
+* AAAI-26 Program committee
 * 2021-2022 Vice President of Xi'an Jiaotong University Sino-French Exchange Association
 * TA for COMP2011 C++ Programming @HKUST
