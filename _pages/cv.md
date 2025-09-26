@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* Bachelor's degree in Information Engineering, Xi'an Jiaotong University, 2017-2021
-* Generalist Engineer(Double Master's degree), École Centrale de Méditerranée, CSC scholarship, 2019-2024
-* Master's degree in Control Science and Engineering, Xi'an Jiaotong University, supervised by Prof. Nanning Zheng, graduate with honor, 2021-2024
-* Ph.D in Computer Science, Hongkong University of Science and Technology, co-supervised by Prof. Yike Guo and Prof.Wei Xue, 2024-2028 (expected)
+* Bachelor's degree in Information Engineering, Xi'an Jiaotong University(西安交通大学), 2017-2021
+* Generalist Engineer(Double Master's degree), École Centrale de Méditerranée(地中海中央理工学院;马赛中央理工学院), CSC scholarship, 2019-2024
+* Master's degree in Control Science and Engineering, Xi'an Jiaotong University, supervised by Prof. Nanning Zheng(郑南宁), graduate with honor, 2021-2024
+* Ph.D in Computer Science, Hongkong University of Science and Technology(香港科技大学), co-supervised by Prof. Yike Guo(郭毅可) and Prof.Wei Xue(雪巍), 2024-2028 (expected)
 
 Work experience
 ======
 * 2021-2021: Research Intern
   * Institute of Automation, Chinese Academy of Sciences
   * Duties included: research about vision-language model
-  * Supervisor: Professor Guibo Zhu
+  * Supervisor: Professor Guibo Zhu(朱贵波)
 
 * 2023-2024: AI Engineer(Intern)
   * Huawei Noah's Ark
