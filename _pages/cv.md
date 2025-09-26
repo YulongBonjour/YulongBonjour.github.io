@@ -44,3 +44,4 @@ Service and leadership
 ======
 * 2021-2022 Vice President of Xi'an Jiaotong University Sino-French Exchange Association
 * TA for COMP2011 C++ Programming @HKUST
+* Reviewer for: IEEE TMI, NIPS(outstanding reviewer for NIPS2022),CVPR, ICCV,CVPR
